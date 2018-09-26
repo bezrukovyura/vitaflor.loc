@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.section {
+  width: 100%;
+  min-height: 100vh;
+  position: absolute;
+  transition: 1s;
+}
+.section1 {
+  background: rebeccapurple;
+}
+.section2 {
+  background: red;
+  top: 100%;
+}
+.section3 {
+  background: yellow;
+  top: 100%;
+}
+.section4 {
+  background: aquamarine;
+  top: 100%;
+}
